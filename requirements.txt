@@ -1,0 +1,11 @@
+langchain-core
+langchain-community
+langgraph
+langchain-openai
+duckduckgo-search
+yahoo-finance
+jupyter
+
+langchain_experimental
+langchain_anthropic
+matplotlib
