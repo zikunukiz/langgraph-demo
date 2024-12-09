@@ -44,7 +44,7 @@ def get_stock_price(ticker: str) -> float:
     """
     # """This is a tool for getting the price of a stock when passed a ticker symbol"""
     stock = yf.Ticker(ticker)
-    return stock.info['previousClose']
+    return stock.info["previousClose"]
 
 
 # Warning: This executes code locally, which can be unsafe when not sandboxed
