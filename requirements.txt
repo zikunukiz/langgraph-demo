@@ -3,7 +3,7 @@ langchain-community
 langgraph
 langchain-openai
 duckduckgo-search
-yahoo-finance
+yfinance
 jupyter
 
 langchain_experimental
